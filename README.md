@@ -1,4 +1,6 @@
-## Hi there 👋
+
+- 👋 Hi, I'm Yannik Käckenmeister 
+- 🛠️ Projects will be published soon
 
 <!--
 **y720k/y720k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
