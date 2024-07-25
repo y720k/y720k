@@ -1,5 +1,3 @@
-
-- 👋 Hi, I'm Yannik Käckenmeister 
 - 🛠️ Projects will be published soon
 
 <!--
